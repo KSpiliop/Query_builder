@@ -1,0 +1,10 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - gensim
+  - pyLDAvis
+  - matplotlib
+  - pandas
+  - numpy
+  - openpyxl
