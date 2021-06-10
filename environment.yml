@@ -4,8 +4,7 @@ channels:
 dependencies:
   - gensim
   - ast
-  - pyLDAvis
-  - matplotlib
+  - ipywidgets
   - pandas
   - numpy
   - openpyxl
